@@ -45,7 +45,6 @@ export const Banner = () => {
                     <Col xs={12} md={6} xl={7}>
                         <span className="banner-text">Hello, I'm Jules Gaborit</span>
                         <h1>{`I'm emdecoded `}<span className="wrap">{text}</span></h1>
-                        <p>loremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem</p>
                         <button onClick={()=> console.log("lets by connect") } className="btn btn-primary">Let's connect</button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
