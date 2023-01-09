@@ -63,11 +63,6 @@ export const Skills = () => {
                                 <img src={mongodb} alt="skill" />
                                 <h5>MongoDB</h5>
                             </div>
-                            <div className="skill-item">
-                                <img src={sass} alt
-                                ="skill" />
-                                <h5>Sass</h5>
-                            </div>
                         </Carousel>
                     </div>
                 </Col>
